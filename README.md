@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Akshat 👋👨‍💻</h1>
 
-<!--
-**akshat2805p/akshat2805p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Akshat%20Pandey&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=CSE%20Core%20Student%20%7C%20DSA%20%7C%20Frontend%20Developer&descAlign=50&descAlignY=60" alt="Header" width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate Computer Science Engineering Student from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧐 About Me
+
+I am a **3rd Year B.Tech Computer Science (Core)** student passionate about solving complex problems and building efficient systems. 
+
+While my academic focus is on **Data Structures & Algorithms (DSA)** and **Core CS concepts** (like OS, DBMS, and CN), I also love bringing ideas to life through **Frontend Development**. I believe in bridging the gap between strong logic and beautiful user interfaces.
+
+* 🎓 **Current Status:** Pre-final year CSE Undergrad.
+* 💻 **Focus:** Mastering DSA, Competitive Programming, and React.js.
+* 🔭 **Currently working on:** Improving my problem-solving skills and building responsive web apps (like my recent NFT Preview Card component).
+* 🌱 **Learning:** Advanced Algorithms and System Design.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat2805p&show_icons=true&theme=radical" alt="Akshat's Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat2805p&theme=radical" alt="Akshat's Streak" />
+</p>
+
+---
+
+### 🌐 Find me around the web:
+
+* 💼 **LinkedIn:** [akshatpandey28](https://www.linkedin.com/in/akshatpandey28/)
+* 📧 **Email:** [akshatpandeygit28@gmail.com](mailto:akshatpandeygit28@gmail.com)
+* 🐣 **Twitter / X:** [@Ak_Ap28Tweet](https://x.com/Ak_Ap28Tweet)
