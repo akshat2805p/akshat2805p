@@ -10,7 +10,7 @@
 
 ### 🧐 About Me
 
-I am a **3rd Year B.Tech Computer Science (Core)** student passionate about solving complex problems and building efficient systems. 
+I am a ** B.Tech Computer Science (Core)** student passionate about solving complex problems and building efficient systems. 
 
 While my academic focus is on **Data Structures & Algorithms (DSA)** and **Core CS concepts** (like OS, DBMS, and CN), I also love bringing ideas to life through **Frontend Development**. I believe in bridging the gap between strong logic and beautiful user interfaces.
 
