@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Akshat 👋👨‍💻</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Akshat%20Pandey&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=CSE%20Core%20Student%20%7C%20DSA%20%7C%20Frontend%20Developer&descAlign=50&descAlignY=60" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Akshat%20Pandey&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=CSE%20%20Student%20%7C%20DSA%20%7C%20Frontend%20Developer&descAlign=50&descAlignY=60" alt="Header" width="100%"/>
 </p>
 
 <h3 align="center">A passionate Computer Science Engineering Student from India 🇮🇳</h3>
