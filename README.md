@@ -35,17 +35,6 @@ While my academic focus is on **Data Structures & Algorithms (DSA)** and **Core 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat2805p&show_icons=true&theme=radical" alt="Akshat's Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat2805p&theme=radical" alt="Akshat's Streak" />
-</p>
-
 ---
 
 ### 🌐 Find me around the web:
