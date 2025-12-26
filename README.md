@@ -1,44 +1,50 @@
-<h1 align="center">Hi! I'm Akshat 👋👨‍💻</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Akshat+Pandey+👋;A+Tech+Enthusiast+💻;A+Problem+Solver+🚀" alt="Typing SVG" />
+</h1>
+
+
+
+---
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/jzHFPlw89eTqU/giphy.gif" width="25">  System.Initialize(Akshat)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Akshat%20Pandey&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=CSE%20%20Student%20%7C%20DSA%20%7C%20Web%20Developer&descAlign=50&descAlignY=60" alt="Header" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=500&color=A9FEFF&center=true&vCenter=true&width=600&lines=🎓+Pre-final+Year+CSE+Undergrad;💻+Mastering+DSA+and+CP;🌐+Building+Responsive+Web+Apps;🌱+Learning+System+Design" alt="Details Typing" />
 </p>
 
-<h3 align="center">A passionate Computer Science Engineering Student from India 🇮🇳</h3>
+> **Console Output:** > I bridge the gap between strong logic and beautiful user interfaces. Currently focusing on **React.js** and high-performance **Algorithms**.
 
 ---
 
-### 🧐 About Me
-
-I am a  B.Tech Computer Science (Core) student passionate about solving complex problems and building efficient systems. 
-
-While my academic focus is on **Data Structures & Algorithms (DSA)** and **Core CS concepts** (like OS, DBMS, and CN), I also love bringing ideas to life through **Frontend Development**. I believe in bridging the gap between strong logic and beautiful user interfaces.
-
-* 🎓 **Current Status:** Pre-final year CSE Undergrad.
-* 💻 **Focus:** Mastering DSA, Competitive Programming, and React.js.
-* 🔭 **Currently working on:** Improving my problem-solving skills and building responsive web apps (like my recent NFT Preview Card component).
-* 🌱 **Learning:** Advanced Algorithms and System Design.
-
----
-
-### 🛠️ Languages & Tools
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9SULvG3EonM9qNfQ9/giphy.gif" width="25">  Tech_Stack.exe
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 ---
 
-### 🌐 Find me around the web:
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6T3XSSatFq4NfPCHQe/giphy.gif" width="25">  Remote_Connect()
 
-* 💼 **LinkedIn:** [akshatpandey28](https://www.linkedin.com/in/akshatpandey28/)
-* 📧 **Email:** [akshatpandeygit28@gmail.com](mailto:akshatpandeygit28@gmail.com)
-* 🐣 **Twitter / X:** [@Ak_Ap28Tweet](https://x.com/Ak_Ap28Tweet)
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshatpandey28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:akshatpandeygit28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Ak_Ap28Tweet">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
