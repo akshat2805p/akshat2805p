@@ -6,7 +6,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/jzHFPlw89eTqU/giphy.gif" width="25">  System.Initialize(Akshat)
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/jzHFPlw89eTqU/giphy.gif" width="25">  System.Initialize
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=500&color=A9FEFF&center=true&vCenter=true&width=600&lines=🎓+Pre-final+Year+CSE+Undergrad;💻+Mastering+DSA+and+CP;🌐+Building+Responsive+Web+Apps;🌱+Learning+System+Design" alt="Details Typing" />
