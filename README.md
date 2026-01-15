@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=500&color=A9FEFF&center=true&vCenter=true&width=600&lines=🎓+Pre-final+Year+CSE+Undergrad;💻+Mastering+DSA+and+CP;🌐+Building+Responsive+Web+Apps;🌱+Learning+System+Design" alt="Details Typing" />
 </p>
 
-> **Console Output:** > I bridge the gap between strong logic and beautiful user interfaces. Currently focusing on **React.js** and high-performance **Algorithms**.
+> **Console Output:** > I bridge the gap between strong logic and beautiful user interfaces. Currently focusing on **Data Structures** and high-performance **Algorithms**.
 
 ---
 
