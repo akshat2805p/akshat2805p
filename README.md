@@ -45,12 +45,6 @@
 
 ---
 
-## 🕹️ Interactive Zone
-<p align="center">
-  <a href="https://github.com/dinoscpc/dino">
-    <img src="https://img.shields.io/badge/RUN_AWAY_FROM_REALITY-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Play Dino Game"/>
-  </a>
-</p>
 
 ---
 
