@@ -1,68 +1,57 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> Hey, I'm Akshat Pandey! 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> Hi, I'm Akshat Pandey!
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFEA00&width=500&lines=echo+%22Professional+Bug+Hunter%22;echo+%22Full+Stack+Magician%22;echo+%22Android+Club+Co-Lead%22;echo+%22History+Buff+%2B+Photographer%22">
-
----
-
-## 🧐 The Human Component
-* 🎓 **Current Mission:** Mastering the art of Computer Science at **Vellore Institute of Technology, Bhopal**.
-* 🏆 **Global Flex:** Managed to break into the **World Top 300** at the Devpost HackHub Hackathon.
-* 📸 **Offline Mode:** When the screen goes dark, I’m capturing light as a **Photographer** or time-traveling through **Historiography**.
-
+### <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D1FF&width=500&lines=Full+Stack+Developer;Android+Club+Co-Lead;Global+Hackathon+Winner;Passionate+Photographer">
 
 ---
 
-## 🛠️ My "Magic Wand" Collection (Categorized Skills)
+## ✨ About Me
+I am a Computer Science student at **Vellore Institute of Technology, Bhopal**, driven by the thrill of solving complex problems and building seamless user experiences.
 
-### 💻 The Spells (Languages)
+* 🏆 **Best Project** at the Devpost Google Gemini Hackathon.
+* 🚀 **Leadership:** Serving as the Co-Lead for the Android Club, fostering a community of mobile developers.
+* 🎨 **Creativity:** When I'm not building apps, I’m behind the lens as a **Photographer** or diving deep into **History and Historiography**.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🚀 Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,js,html,css" alt="Languages" />
 </p>
 
-### 🏗️ The Foundations (Frameworks & Databases)
+### 🏗️ Frameworks & Databases
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,bootstrap" alt="Frameworks" />
 </p>
 
-### 🔧 The Utility Belt (DevTools & Core Concepts)
+### 🧰 Tools & DevOps
 <p align="left">
-  <marquee behavior="scroll" direction="left" scrollamount="8">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
-    <b>&nbsp;&nbsp;&nbsp; • Data Structures & Algorithms • Operating Systems • DBMS • &nbsp;&nbsp;&nbsp;</b>
-  </marquee>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,git,vscode,figma,postman,linux" alt="Tools" />
 </p>
+
+> **Core Competencies:** Data Structures & Algorithms • Operating Systems • Database Management (DBMS)
 
 ---
 
+## 🤝 Let's Connect!
+I'm always open to collaborating on innovative projects or discussing the latest in tech and history.
 
----
-
-## 📮 Dispatch a Message
 <p align="left">
   <a href="mailto:akshatpandeygit28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akshatpandeygit28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/akshatpandey28/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://aboutap.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Check_It_Out-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Site"/>
+    <img src="https://img.shields.io/badge/Portfolio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
+
 <p align="center">
   <i>"I code so my future self has someone to blame for the bugs."</i><br>
-  <b>Current Status:</b> Searching for that missing semicolon... ☕
+  <b>Currently:</b> Searching for that missing semicolon... ☕
 </p>
