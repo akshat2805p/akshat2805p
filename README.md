@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> Hi, I'm Akshat Pandey!
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D1FF&width=500&lines=Full+Stack+Developer;Android+Club+Co-Lead;Global+Hackathon+Winner;Passionate+Photographer">
+### <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D1FF&width=500&lines=Full+Stack+Developer;;Global+Hackathon+Winner;Passionate+Photographer">
 
 ---
 
