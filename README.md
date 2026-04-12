@@ -1,41 +1,51 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> Hi, I'm Akshat Pandey!
+# 👨‍💻 Akshat Pandey
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D1FF&width=500&lines=Full+Stack+Developer;;Global+Hackathon+Winner;Passionate+Photographer">
+### <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00D1FF&width=435&lines=B.Tech+CSE+@+VIT+Bhopal;LeetCode+Knight+Rating;Full+Stack+Developer">
 
----
-
-## ✨ About Me
-I am a Computer Science student at **Vellore Institute of Technology, Bhopal**, driven by the thrill of solving complex problems and building seamless user experiences.
-
-* 🏆 **Best Project** at the Devpost Google Gemini Hackathon.
-* 🚀 **Leadership:** Serving as the Co-Lead for the Android Club, fostering a community of mobile developers.
-* 🎨 **Creativity:** When I'm not building apps, I’m behind the lens as a **Photographer** or diving deep into **History and Historiography**.
+**B.Tech in Computer Science & Engineering @ VIT Bhopal (2027)** *Full Stack Developer | LeetCode Knight | Mobile App Developer*
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🚀 Professional Overview
+I am a developer focused on building high-performance web and mobile applications. I specialize in the MERN stack and cloud-native technologies, backed by a strong foundation in competitive programming.
 
-### 🚀 Programming Languages
+* ⚔️ **LeetCode Knight:** Top-tier competitive programmer with a focus on optimized DSA solutions.
+* 🏆 **Hackathon Winner:** Awarded "Best Project" at the Devpost Google Gemini Hackathon.
+---
+
+### 🛠️ Tech Stack
+
+#### 🚀 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,go,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,js,java,html,css" alt="Languages" />
 </p>
 
-### 🏗️ Frameworks & Databases
+#### 🏗️ Frameworks & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,bootstrap" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,flutter" alt="Frameworks" />
 </p>
 
-### 🧰 Tools & DevOps
+#### 🧰 Tools & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,gcp,git,vscode,figma,postman,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,gcp,aws,git,linux,postman" alt="Tools" />
 </p>
-
-> **Core Competencies:** Data Structures & Algorithms • Operating Systems • Database Management (DBMS)
 
 ---
 
-## 🤝 Let's Connect!
-I'm always open to collaborating on innovative projects or discussing the latest in tech and history.
+### 📂 Featured Projects
+
+* **SprintGuard:** AI-driven risk predictor for Agile teams (Atlassian Forge).
+* **DeepDetect AI:** Deepfake forensics and detection system.
+* **SelfUI:** Generative UI components for rapid development.
+
+---
+
+### 📊 GitHub Statistics
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatpandey28&show_icons=true&theme=transparent)
+
+---
+
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="mailto:akshatpandeygit28@gmail.com">
@@ -44,14 +54,16 @@ I'm always open to collaborating on innovative projects or discussing the latest
   <a href="https://www.linkedin.com/in/akshatpandey28/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://portfolio-website-nine-omega-46.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://aboutap.netlify.app">
-    <img src="portfolio-website-nine-omega-46.vercel.app?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Alternate_Site-4B8BBE?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"I code so my future self has someone to blame for the bugs."</i><br>
-  <b>Currently:</b> Searching for that missing semicolon... ☕
+  <i>"Passionate about Historiography and Photography outside of the terminal."</i>
 </p>
