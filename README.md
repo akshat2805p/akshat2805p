@@ -57,9 +57,7 @@ I am a developer focused on building high-performance web and mobile application
   <a href="https://portfolio-website-nine-omega-46.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://aboutap.netlify.app">
-    <img src="https://img.shields.io/badge/Alternate_Site-4B8BBE?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  </a>
+  
 </p>
 
 ---
