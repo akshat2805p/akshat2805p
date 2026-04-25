@@ -40,11 +40,6 @@ I am a developer focused on building high-performance web and mobile application
 
 ---
 
-### 📊 GitHub Statistics
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatpandey28&show_icons=true&theme=transparent)
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
