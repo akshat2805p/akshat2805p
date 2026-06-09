@@ -54,7 +54,7 @@ Developer focused on building high-performance web and mobile applications. I sp
   </a>
   &nbsp;
   <a href="https://portfolio-website-nine-omega-46.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://akshatdeveloper.netlify.app/" />
   </a>
 </p>
 
