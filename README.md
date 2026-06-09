@@ -53,10 +53,7 @@ Developer focused on building high-performance web and mobile applications. I sp
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://portfolio-website-nine-omega-46.vercel.app">
-    <img src="https://akshatdeveloper.netlify.app/" />
-  </a>
-</p>
+  
 
 ---
 
