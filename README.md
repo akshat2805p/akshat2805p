@@ -31,7 +31,6 @@ ExecStart=/usr/bin/run_fossee_fellow --location="IIT Bombay (Remote)" \
 ExecStartPre=/bin/echo "Computer Science undergraduate (VIT Bhopal, 2027) with hands-on experience in C++, Python, AI inference pipelines, full-stack development, and CI/CD automation."
 
 # Achievements Execution Protocol
-ExecStartPost=/bin/echo "🏆 GSSOC 2026: Selected open-source contributor from thousands of global applicants."
 ExecStartPost=/bin/echo "🏆 Hackathon Winner: Best Project Award at Devpost Google Gemini Hackathon."
 ExecStartPost=/bin/echo "📜 Certification: IBM AI Engineering Professional Certificate verified expertise."
 ExecStartPost=/bin/echo "⚔️ Problem Solving: 260+ problems solved on LeetCode across DSA, DP, and graphs."
