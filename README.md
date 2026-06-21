@@ -7,7 +7,7 @@
 
 ```ini
 [Unit]
-Description=Akshat Pandey - Software Engineer & System Architect
+Description=Akshat Pandey - Software Engineer & System Engineer
 Documentation=[https://resume-portfolio-sandy.vercel.app/](https://resume-portfolio-sandy.vercel.app/)
 Wants=software-engineering-internship.service
 After=education.target
