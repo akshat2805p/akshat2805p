@@ -1,0 +1,86 @@
+<svg viewBox="0 0 1250 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e1a"/><stop offset="100%" stop-color="#1a1033"/>
+    </linearGradient>
+    <linearGradient id="sheenGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clipAll"><rect x="0" y="0" width="1250" height="600" rx="14"/></clipPath>
+  </defs>
+
+  <rect width="1250" height="600" fill="url(#bg2)" rx="14"/>
+
+  <g clip-path="url(#clipAll)">
+  <g fill="#a78bfa" opacity="0.5">
+    <circle cx="90" cy="580" r="1.6"><animate attributeName="cy" values="580;0" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="580" r="1.4" fill="#22d3ee"><animate attributeName="cy" values="580;0" dur="9.5s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="9.5s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="580" r="1.7" fill="#f472b6"><animate attributeName="cy" values="580;0" dur="7s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="7s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="580" r="1.5"><animate attributeName="cy" values="580;0" dur="8.5s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="8.5s" begin="0.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="625" y="55" font-family="'Courier New', monospace" font-size="26" font-weight="700" fill="#58a6ff" text-anchor="middle">// SKILL MATRIX</text>
+  <text x="625" y="82" font-family="'Courier New', monospace" font-size="13" fill="#6e7681" text-anchor="middle">isometric proficiency map — updated 2026</text>
+
+  <line x1="40" y1="480" x2="1160" y2="480" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- AI / ML : target height 315, baseY 480 -->
+  <g>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="1,0.001; 1,1" dur="1s" fill="freeze"/>
+    <polygon points="80,165 220,165 255,145 115,145" fill="#4c8dff"/>
+    <rect x="80" y="165" width="140" height="315" fill="#1f6feb"/>
+    <polygon points="220,165 255,145 255,460 220,480" fill="#123a80"/>
+  </g>
+
+  <!-- Full-Stack -->
+  <g>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="1,0.001; 1,1" dur="1.15s" fill="freeze"/>
+    <polygon points="335,162.5 475,162.5 440,182.5 300,182.5" fill="#a78bfa"/>
+    <rect x="300" y="182.5" width="140" height="297.5" fill="#7c3aed"/>
+    <polygon points="440,182.5 475,162.5 475,460 440,480" fill="#3f1f8f"/>
+  </g>
+
+  <!-- DSA -->
+  <g>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="1,0.001; 1,1" dur="1.3s" fill="freeze"/>
+    <polygon points="555,173 695,173 660,193 520,193" fill="#22d3ee"/>
+    <rect x="520" y="193" width="140" height="287" fill="#06b6d4"/>
+    <polygon points="660,193 695,173 695,460 660,480" fill="#0b6478"/>
+  </g>
+
+  <!-- DevOps -->
+  <g>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="1,0.001; 1,1" dur="1.45s" fill="freeze"/>
+    <polygon points="775,208 915,208 880,228 740,228" fill="#fb923c"/>
+    <rect x="740" y="228" width="140" height="252" fill="#f97316"/>
+    <polygon points="880,228 915,208 915,460 880,480" fill="#c2410c"/>
+  </g>
+
+  <!-- Systems -->
+  <g>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="1,0.001; 1,1" dur="1.6s" fill="freeze"/>
+    <polygon points="995,222 1135,222 1100,242 960,242" fill="#f472b6"/>
+    <rect x="960" y="242" width="140" height="238" fill="#ec4899"/>
+    <polygon points="1100,242 1135,222 1135,460 1100,480" fill="#9d174d"/>
+  </g>
+
+  <text x="150" y="500" font-family="'Courier New', monospace" font-size="14" fill="#c9d1d9" text-anchor="middle">AI / ML</text>
+  <text x="150" y="518" font-family="'Courier New', monospace" font-size="13" fill="#58a6ff" text-anchor="middle">90%</text>
+  <text x="370" y="500" font-family="'Courier New', monospace" font-size="14" fill="#c9d1d9" text-anchor="middle">Full-Stack</text>
+  <text x="370" y="518" font-family="'Courier New', monospace" font-size="13" fill="#a78bfa" text-anchor="middle">85%</text>
+  <text x="590" y="500" font-family="'Courier New', monospace" font-size="14" fill="#c9d1d9" text-anchor="middle">DSA</text>
+  <text x="590" y="518" font-family="'Courier New', monospace" font-size="13" fill="#22d3ee" text-anchor="middle">82%</text>
+  <text x="810" y="500" font-family="'Courier New', monospace" font-size="14" fill="#c9d1d9" text-anchor="middle">DevOps</text>
+  <text x="810" y="518" font-family="'Courier New', monospace" font-size="13" fill="#fb923c" text-anchor="middle">72%</text>
+  <text x="1030" y="500" font-family="'Courier New', monospace" font-size="14" fill="#c9d1d9" text-anchor="middle">Systems</text>
+  <text x="1030" y="518" font-family="'Courier New', monospace" font-size="13" fill="#f472b6" text-anchor="middle">68%</text>
+
+  <text x="625" y="565" font-family="'Courier New', monospace" font-size="12" fill="#484f58" text-anchor="middle">generated from project history · FOSSEE · RetinAI · DevRA · VortexLang</text>
+
+  <rect x="-500" y="0" width="260" height="600" fill="url(#sheenGrad2)" transform="skewX(-18)">
+    <animate attributeName="x" values="-500;1500" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  </g>
+</svg>
